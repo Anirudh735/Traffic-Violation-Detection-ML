@@ -1,5 +1,3 @@
-detection of vehicles 
-
 !pip install google-colab
 from IPython import get_ipython
 !pip install google-colab
