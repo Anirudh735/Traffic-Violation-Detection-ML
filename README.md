@@ -70,16 +70,26 @@ traffic_violation/
 3. Install dependencies:
    ```bash
    !pip install flask pyngrok ultralytics easyocr opencv-python-headless
-Run app.py from /content/traffic_violation.
+## Run app.py from /content/traffic_violation.
 
-Copy and open the Ngrok public link to access the dashboard.
+## Copy and open the Ngrok public link to access the dashboard.
+
+
+
+
+
 
 📋 Sample Violation Log Entry
 Timestamp	          Plate Number	  Vehicle Type	  Screenshot
 2025-05-08 14:22:10	  TN01AB1234	  Car	
 
 
-🙋‍♂️ Future Improvements
+
+
+
+
+
+* Future Improvements
 Integrate with live CCTV feeds
 
 Export violation logs to Excel/CSV
